@@ -1,0 +1,22 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
+
+
+*{
+
+
+   font-family: 'Shadows Into Light', cursive;
+  
+
+}
+body{
+     border-style:none;
+     font-family: 'Shadows Into Light', cursive;
+     background-image: url(https://img.freepik.com/foto-gratis/rodajas-frutas-bayas-sobre-fondo-amarillo_23-2148144274.jpg?w=2000);
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content:space-around;
+}
